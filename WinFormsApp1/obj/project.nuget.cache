@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "T4RJNCZezAu460jJq4Y1ezI9RxYAs4Wfz7Wif/ntUbfWXHG2+cBAV+fP1U0da3kGiltFSINoiJwiUAduRzSTAg==",
+  "dgSpecHash": "7mTh+zEgg4uwBjiAOFTuqwbp3wGEtUjiAKmVipbLcI2/ZXwzDxQ3bEM3qewPxDDhZmp5f3b1u3/GJYXhmOPe8A==",
   "success": true,
-  "projectFilePath": "E:\\tpCoderCsharp\\ConsoleApp2\\WinFormsApp1\\GestionMuebles.csproj",
+  "projectFilePath": "E:\\tpCoderCsharp\\ConsoleApp2\\WinFormsApp1\\SistemaGestionUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

@@ -1,0 +1,16 @@
+E:\tpCoderCsharp\ConsoleApp2\SistemaGestionData\bin\Debug\net6.0\SistemaGestionData.deps.json
+E:\tpCoderCsharp\ConsoleApp2\SistemaGestionData\bin\Debug\net6.0\SistemaGestionData.dll
+E:\tpCoderCsharp\ConsoleApp2\SistemaGestionData\bin\Debug\net6.0\SistemaGestionData.pdb
+E:\tpCoderCsharp\ConsoleApp2\SistemaGestionData\bin\Debug\net6.0\SistemaGestionEntities.dll
+E:\tpCoderCsharp\ConsoleApp2\SistemaGestionData\bin\Debug\net6.0\SistemaGestionEntities.pdb
+E:\tpCoderCsharp\ConsoleApp2\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.csproj.AssemblyReference.cache
+E:\tpCoderCsharp\ConsoleApp2\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.GeneratedMSBuildEditorConfig.editorconfig
+E:\tpCoderCsharp\ConsoleApp2\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.AssemblyInfoInputs.cache
+E:\tpCoderCsharp\ConsoleApp2\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.AssemblyInfo.cs
+E:\tpCoderCsharp\ConsoleApp2\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.csproj.CoreCompileInputs.cache
+E:\tpCoderCsharp\ConsoleApp2\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.sourcelink.json
+E:\tpCoderCsharp\ConsoleApp2\SistemaGestionData\obj\Debug\net6.0\SistemaG.92EE484C.Up2Date
+E:\tpCoderCsharp\ConsoleApp2\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.dll
+E:\tpCoderCsharp\ConsoleApp2\SistemaGestionData\obj\Debug\net6.0\refint\SistemaGestionData.dll
+E:\tpCoderCsharp\ConsoleApp2\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.pdb
+E:\tpCoderCsharp\ConsoleApp2\SistemaGestionData\obj\Debug\net6.0\ref\SistemaGestionData.dll

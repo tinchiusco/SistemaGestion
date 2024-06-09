@@ -1,7 +1,7 @@
-using GestionMuebles.Forms;
+using SistemaGestionUI;
 using System.Security.Cryptography.X509Certificates;
 
-namespace GestionMuebles
+namespace SistemaGestionUI
 {
     internal static class Program
     {

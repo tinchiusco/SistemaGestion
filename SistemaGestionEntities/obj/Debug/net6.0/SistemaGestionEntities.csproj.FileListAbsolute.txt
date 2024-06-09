@@ -1,0 +1,12 @@
+E:\tpCoderCsharp\ConsoleApp2\SistemaGestionEntities\bin\Debug\net6.0\SistemaGestionEntities.deps.json
+E:\tpCoderCsharp\ConsoleApp2\SistemaGestionEntities\bin\Debug\net6.0\SistemaGestionEntities.dll
+E:\tpCoderCsharp\ConsoleApp2\SistemaGestionEntities\bin\Debug\net6.0\SistemaGestionEntities.pdb
+E:\tpCoderCsharp\ConsoleApp2\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.GeneratedMSBuildEditorConfig.editorconfig
+E:\tpCoderCsharp\ConsoleApp2\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.AssemblyInfoInputs.cache
+E:\tpCoderCsharp\ConsoleApp2\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.AssemblyInfo.cs
+E:\tpCoderCsharp\ConsoleApp2\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.csproj.CoreCompileInputs.cache
+E:\tpCoderCsharp\ConsoleApp2\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.sourcelink.json
+E:\tpCoderCsharp\ConsoleApp2\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.dll
+E:\tpCoderCsharp\ConsoleApp2\SistemaGestionEntities\obj\Debug\net6.0\refint\SistemaGestionEntities.dll
+E:\tpCoderCsharp\ConsoleApp2\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.pdb
+E:\tpCoderCsharp\ConsoleApp2\SistemaGestionEntities\obj\Debug\net6.0\ref\SistemaGestionEntities.dll
