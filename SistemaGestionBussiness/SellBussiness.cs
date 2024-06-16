@@ -10,8 +10,12 @@ namespace SistemaGestionBussiness
 {
     public class SellBussiness
     {
-        public static List<Venta> GetSell() {
-            return SellData.SellList();
-        }
+        //Cuidar que los metodos se escriben igual pero vienen de distintas clases
+        public static void CreateSell(Venta sell) => SellData.CreateSell(sell);
+        public static void DeleteSell(int id) => SellData.DeleteSell(id);
+        public static void UpdateSell(Venta sell) => SellData.UpdateSell(sell.Id, sell);
+        public static Venta GetSellById(int id) => SellData.GetSellById(id);
+        public static List<Venta> GetSells() => SellData.SellList();
+
     }
 }

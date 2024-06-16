@@ -10,9 +10,11 @@ namespace SistemaGestionBussiness
 {
     public class SellProductBussiness
     {
-        public static List<ProductoVendido> GetSellProduct()
-        {
-            return SellProductData.SellProductList();
-        }
+        //Cuidar que los metodos se escriben igual pero vienen de distintas clases
+        public static void CreateSellProduct(ProductoVendido sellProduct) => SellProductData.CreateSellProduct(sellProduct);
+        public static void DeleteSellProduct(int id) => SellProductData.DeleteSellProduct(id);
+        public static void UpdateSellProduct(ProductoVendido sellProduct) => SellProductData.UpdateSellProduct(sellProduct.Id, sellProduct);
+        public static ProductoVendido GetSellProductById(int id) => SellProductData.GetSellProductById(id);
+        public static List<ProductoVendido> GetSellProduct() => SellProductData.SellProductList();
     }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\tpCoderCsharp\\ConsoleApp2\\SistemaGestionBussiness\\SistemaGestionBussiness.csproj": {}
+    "E:\\tpCoderCsharp\\GestionMuebles\\SistemaGestionBussiness\\SistemaGestionBussiness.csproj": {}
   },
   "projects": {
-    "E:\\tpCoderCsharp\\ConsoleApp2\\SistemaGestionBussiness\\SistemaGestionBussiness.csproj": {
+    "E:\\tpCoderCsharp\\GestionMuebles\\SistemaGestionBussiness\\SistemaGestionBussiness.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\tpCoderCsharp\\ConsoleApp2\\SistemaGestionBussiness\\SistemaGestionBussiness.csproj",
+        "projectUniqueName": "E:\\tpCoderCsharp\\GestionMuebles\\SistemaGestionBussiness\\SistemaGestionBussiness.csproj",
         "projectName": "SistemaGestionBussiness",
-        "projectPath": "E:\\tpCoderCsharp\\ConsoleApp2\\SistemaGestionBussiness\\SistemaGestionBussiness.csproj",
+        "projectPath": "E:\\tpCoderCsharp\\GestionMuebles\\SistemaGestionBussiness\\SistemaGestionBussiness.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "E:\\tpCoderCsharp\\ConsoleApp2\\SistemaGestionBussiness\\obj\\",
+        "outputPath": "E:\\tpCoderCsharp\\GestionMuebles\\SistemaGestionBussiness\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,11 +33,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\tpCoderCsharp\\ConsoleApp2\\SistemaGestionData\\SistemaGestionData.csproj": {
-                "projectPath": "E:\\tpCoderCsharp\\ConsoleApp2\\SistemaGestionData\\SistemaGestionData.csproj"
+              "E:\\tpCoderCsharp\\GestionMuebles\\SistemaGestionData\\SistemaGestionData.csproj": {
+                "projectPath": "E:\\tpCoderCsharp\\GestionMuebles\\SistemaGestionData\\SistemaGestionData.csproj"
               },
-              "E:\\tpCoderCsharp\\ConsoleApp2\\SistemaGestionEntities\\SistemaGestionEntities.csproj": {
-                "projectPath": "E:\\tpCoderCsharp\\ConsoleApp2\\SistemaGestionEntities\\SistemaGestionEntities.csproj"
+              "E:\\tpCoderCsharp\\GestionMuebles\\SistemaGestionEntities\\SistemaGestionEntities.csproj": {
+                "projectPath": "E:\\tpCoderCsharp\\GestionMuebles\\SistemaGestionEntities\\SistemaGestionEntities.csproj"
               }
             }
           }
@@ -76,14 +76,14 @@
         }
       }
     },
-    "E:\\tpCoderCsharp\\ConsoleApp2\\SistemaGestionData\\SistemaGestionData.csproj": {
+    "E:\\tpCoderCsharp\\GestionMuebles\\SistemaGestionData\\SistemaGestionData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\tpCoderCsharp\\ConsoleApp2\\SistemaGestionData\\SistemaGestionData.csproj",
+        "projectUniqueName": "E:\\tpCoderCsharp\\GestionMuebles\\SistemaGestionData\\SistemaGestionData.csproj",
         "projectName": "SistemaGestionData",
-        "projectPath": "E:\\tpCoderCsharp\\ConsoleApp2\\SistemaGestionData\\SistemaGestionData.csproj",
+        "projectPath": "E:\\tpCoderCsharp\\GestionMuebles\\SistemaGestionData\\SistemaGestionData.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "E:\\tpCoderCsharp\\ConsoleApp2\\SistemaGestionData\\obj\\",
+        "outputPath": "E:\\tpCoderCsharp\\GestionMuebles\\SistemaGestionData\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -105,8 +105,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\tpCoderCsharp\\ConsoleApp2\\SistemaGestionEntities\\SistemaGestionEntities.csproj": {
-                "projectPath": "E:\\tpCoderCsharp\\ConsoleApp2\\SistemaGestionEntities\\SistemaGestionEntities.csproj"
+              "E:\\tpCoderCsharp\\GestionMuebles\\SistemaGestionEntities\\SistemaGestionEntities.csproj": {
+                "projectPath": "E:\\tpCoderCsharp\\GestionMuebles\\SistemaGestionEntities\\SistemaGestionEntities.csproj"
               }
             }
           }
@@ -151,14 +151,14 @@
         }
       }
     },
-    "E:\\tpCoderCsharp\\ConsoleApp2\\SistemaGestionEntities\\SistemaGestionEntities.csproj": {
+    "E:\\tpCoderCsharp\\GestionMuebles\\SistemaGestionEntities\\SistemaGestionEntities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\tpCoderCsharp\\ConsoleApp2\\SistemaGestionEntities\\SistemaGestionEntities.csproj",
+        "projectUniqueName": "E:\\tpCoderCsharp\\GestionMuebles\\SistemaGestionEntities\\SistemaGestionEntities.csproj",
         "projectName": "SistemaGestionEntities",
-        "projectPath": "E:\\tpCoderCsharp\\ConsoleApp2\\SistemaGestionEntities\\SistemaGestionEntities.csproj",
+        "projectPath": "E:\\tpCoderCsharp\\GestionMuebles\\SistemaGestionEntities\\SistemaGestionEntities.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "E:\\tpCoderCsharp\\ConsoleApp2\\SistemaGestionEntities\\obj\\",
+        "outputPath": "E:\\tpCoderCsharp\\GestionMuebles\\SistemaGestionEntities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

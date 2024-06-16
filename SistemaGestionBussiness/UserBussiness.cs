@@ -10,8 +10,11 @@ namespace SistemaGestionBussiness
 {
     public class UserBussiness
     {
-        public static List<Usuario> GetUser() {
-            return UserData.UserList();
-        }
+        //Cuidar que los metodos se escriben igual pero vienen de distintas clases
+        public static void CreateUser(Usuario user) => UserData.CreateUser(user);
+        public static void DeleteUser(int id) => UserData.DeleteUser(id);
+        public static void UpdateUser(Usuario user) => UserData.UpdateUser(user.Id, user);    
+        public static Usuario GetUserById(int id) => UserData.GetUserById(id);
+        public static List<Usuario> GetUsers() => UserData.UserList();
     }
 }
